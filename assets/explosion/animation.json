@@ -1,0 +1,147 @@
+{
+  "frameCount": 13,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": {
+    "x": 128,
+    "y": 224
+  },
+  "sheet": "explosion/explosion_sheet.png",
+  "columns": 13,
+  "rows": 1,
+  "frameDurationsMs": [
+    40,
+    45,
+    55,
+    65,
+    75,
+    85,
+    90,
+    95,
+    100,
+    110,
+    110,
+    110,
+    40
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "explosion/frames/explosion_01.png",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "explosion/frames/explosion_02.png",
+      "rect": {
+        "x": 256,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "explosion/frames/explosion_03.png",
+      "rect": {
+        "x": 512,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "explosion/frames/explosion_04.png",
+      "rect": {
+        "x": 768,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "explosion/frames/explosion_05.png",
+      "rect": {
+        "x": 1024,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "explosion/frames/explosion_06.png",
+      "rect": {
+        "x": 1280,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "explosion/frames/explosion_07.png",
+      "rect": {
+        "x": 1536,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "explosion/frames/explosion_08.png",
+      "rect": {
+        "x": 1792,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "explosion/frames/explosion_09.png",
+      "rect": {
+        "x": 2048,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "explosion/frames/explosion_10.png",
+      "rect": {
+        "x": 2304,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "explosion/frames/explosion_11.png",
+      "rect": {
+        "x": 2560,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "explosion/frames/explosion_12.png",
+      "rect": {
+        "x": 2816,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "explosion/frames/explosion_13.png",
+      "rect": {
+        "x": 3072,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    }
+  ]
+}

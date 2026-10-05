@@ -1,0 +1,28 @@
+{
+  "frameCount": 1,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": {
+    "x": 128,
+    "y": 224
+  },
+  "sheet": "bomb_body/bomb_body_sheet.png",
+  "columns": 1,
+  "rows": 1,
+  "frameDurationsMs": [
+    1000
+  ],
+  "loop": false,
+  "static": true,
+  "frames": [
+    {
+      "file": "bomb_body/frames/bomb_body_01.png",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    }
+  ]
+}

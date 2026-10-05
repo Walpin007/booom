@@ -1,0 +1,107 @@
+{
+  "frameCount": 9,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": {
+    "x": 128,
+    "y": 224
+  },
+  "sheet": "landing_dust/landing_dust_sheet.png",
+  "columns": 9,
+  "rows": 1,
+  "frameDurationsMs": [
+    50,
+    50,
+    65,
+    70,
+    70,
+    80,
+    90,
+    90,
+    40
+  ],
+  "loop": false,
+  "frames": [
+    {
+      "file": "landing_dust/frames/landing_dust_01.png",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "landing_dust/frames/landing_dust_02.png",
+      "rect": {
+        "x": 256,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "landing_dust/frames/landing_dust_03.png",
+      "rect": {
+        "x": 512,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "landing_dust/frames/landing_dust_04.png",
+      "rect": {
+        "x": 768,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "landing_dust/frames/landing_dust_05.png",
+      "rect": {
+        "x": 1024,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "landing_dust/frames/landing_dust_06.png",
+      "rect": {
+        "x": 1280,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "landing_dust/frames/landing_dust_07.png",
+      "rect": {
+        "x": 1536,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "landing_dust/frames/landing_dust_08.png",
+      "rect": {
+        "x": 1792,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "landing_dust/frames/landing_dust_09.png",
+      "rect": {
+        "x": 2048,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    }
+  ]
+}
