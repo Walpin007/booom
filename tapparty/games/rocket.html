@@ -7,7 +7,7 @@ let countT=state==='countdown'?Math.min(1,(performance.now()-countStart)/3000):0
 let flightT=state==='flight'?Math.min(1,p/.125):0;
 let smooth=flightT*flightT*(3-2*flightT);
 let launchScale=state==='ready'?.25:state==='countdown'?.25+.10*countT:.35+(zoom*H*.5/104-.35)*smooth;
-let padScale=launchScale/.25;
+let padScale=(launchScale/.25)*.45;
 // Keep the pad underneath the rocket during countdown; after ignition the camera follows the rocket upward.
 let ground=282+(state==='flight'?(padScale-1)*23+flightT*330:0);
 const px=(x)=>W/2+(x-W/2)*padScale;
@@ -33,7 +33,7 @@ scl=.25+.10*t;rocketX=W/2-10*scl;rocketY=282-104*scl;
 }else if(state==='flight'&&p<.125){
 let t=Math.min(1,p/.125),smooth=t*t*(3-2*t);
 let launchScale=.35+(scl-.35)*smooth;
-let padScale=launchScale/.25;
+let padScale=(launchScale/.25)*.45;
 let groundY=282+(padScale-1)*23+t*330;
 let lift=130*smooth;
 let fromY=groundY-104*launchScale-lift;
