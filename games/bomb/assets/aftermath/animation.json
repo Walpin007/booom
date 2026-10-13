@@ -1,0 +1,97 @@
+{
+  "frameCount": 8,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": {
+    "x": 128,
+    "y": 224
+  },
+  "sheet": "aftermath/aftermath_sheet.png",
+  "columns": 8,
+  "rows": 1,
+  "frameDurationsMs": [
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140,
+    140
+  ],
+  "loop": true,
+  "frames": [
+    {
+      "file": "aftermath/frames/aftermath_01.png",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "aftermath/frames/aftermath_02.png",
+      "rect": {
+        "x": 256,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "aftermath/frames/aftermath_03.png",
+      "rect": {
+        "x": 512,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "aftermath/frames/aftermath_04.png",
+      "rect": {
+        "x": 768,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "aftermath/frames/aftermath_05.png",
+      "rect": {
+        "x": 1024,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "aftermath/frames/aftermath_06.png",
+      "rect": {
+        "x": 1280,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "aftermath/frames/aftermath_07.png",
+      "rect": {
+        "x": 1536,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "aftermath/frames/aftermath_08.png",
+      "rect": {
+        "x": 1792,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    }
+  ]
+}

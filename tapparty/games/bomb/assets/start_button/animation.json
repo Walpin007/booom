@@ -1,0 +1,63 @@
+{
+  "frameCount": 4,
+  "frameWidth": 256,
+  "frameHeight": 256,
+  "anchor": {
+    "x": 128,
+    "y": 224
+  },
+  "sheet": "start_button/start_button_sheet.png",
+  "columns": 4,
+  "rows": 1,
+  "frameDurationsMs": [
+    180,
+    80,
+    120,
+    180
+  ],
+  "loop": false,
+  "states": [
+    "normal",
+    "touch",
+    "pressed",
+    "return"
+  ],
+  "frames": [
+    {
+      "file": "start_button/frames/start_button_01.png",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "start_button/frames/start_button_02.png",
+      "rect": {
+        "x": 256,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "start_button/frames/start_button_03.png",
+      "rect": {
+        "x": 512,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    },
+    {
+      "file": "start_button/frames/start_button_04.png",
+      "rect": {
+        "x": 768,
+        "y": 0,
+        "width": 256,
+        "height": 256
+      }
+    }
+  ]
+}
