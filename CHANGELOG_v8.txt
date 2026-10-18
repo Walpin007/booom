@@ -1,0 +1,7 @@
+TapParty v8 — Rocket graphics enhancement
+- Rocket silhouette and stage proportions preserved; added pixel details.
+- Launch pad pixel details and smoke generated in Canvas.
+- Added star patterns, lunar surface texture, animated rabbit and landing dust.
+- Enhanced stage separation fragments, UFO scan, BOOST/WARP/ERROR effects.
+- No external rocket assets; bomb game and main menu unchanged.
+- JS syntax validated. Actual mobile rendering not yet verified.
