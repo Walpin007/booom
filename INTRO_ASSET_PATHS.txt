@@ -1,0 +1,9 @@
+인트로 에셋 위치: 프로젝트 루트/intro/
+- index.html: 메인 화면
+- intro/motion.js: 애니메이션 플레이어
+- intro/assets.json: 각 에셋의 좌표 및 메타데이터
+- intro/assets/*.png: 분리된 로고 이미지 29개
+
+게임 폴더와 같은 깊이에 intro 폴더를 유지하세요.
+재생: 최초 1회(3.2초), 마지막 프레임 정지, 시작 기준 매 30초마다 반복.
+GitHub Pages 등 HTTP(S) 웹 서버에서 실행해야 assets.json fetch가 작동합니다.
