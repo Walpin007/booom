@@ -1,0 +1,8 @@
+아이콘 폴더: assets/icons/
+rocket.png = 로켓 레이스
+bomb.png = 복불복 폭탄
+last-button.png = 라스트 버튼
+
+앞으로 같은 파일명으로 PNG를 교체하면 메인 화면 아이콘이 바뀝니다.
+index.html 내 <img src="assets/icons/..."> 경로 참조.
+원본 아이콘 이미지는 흰 배경을 포함합니다.
